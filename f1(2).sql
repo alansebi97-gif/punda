@@ -2,7 +2,7 @@ create or replace function fact(n in number)
 return number
 is
  
- f number:=1;
+ f number:=0;
  i number;
  
  
